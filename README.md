@@ -24,7 +24,7 @@ This project uses **AdsPower Browser** and **922 Proxy** to prevent risks such a
 ---
 
 ## **Tutorial Video**  
-Check out the tutorial video: **[Lazada CCN](https://juliepakipot.com/lazada/Lazada.mp4)**  
+
 
 ## **Best Practices**  
 - Use a unique profile for each account.  
